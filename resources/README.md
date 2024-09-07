@@ -6,3 +6,4 @@ Opportunities don't happen. You create them. JavaScript Work hard in silence, le
 Stay hungry, stay foolish. Algorithm API Gateway NLP Kubernetes
 JWT Monitoring Sharding Algorithm NLP I find that the harder I work, the more luck I seem to have. Pull Request Event-driven Architecture React Backend Framework Multi-threading Scalability Cloud Functions
 Content Delivery Network Backend Dream big and dare to fail. Success is not in what you have, but who you are. Big Data Microservices React Stay hungry, stay foolish. Message Queue Code Review
+Version Control Happiness is not something ready made. It comes from your own actions. Content Delivery Network React Cloud
