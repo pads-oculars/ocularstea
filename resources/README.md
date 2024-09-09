@@ -5,3 +5,4 @@ IoT Don't be afraid to give up the good to go for the great. Difficult roads oft
 Opportunities don't happen. You create them. JavaScript Work hard in silence, let your success be your noise. Python DNS Routing Machine Learning Event-driven Architecture Artificial Intelligence I find that the harder I work, the more luck I seem to have. Success is not in what you have, but who you are. Neural Networks Stay hungry, stay foolish. JWT Message Queue
 Stay hungry, stay foolish. Algorithm API Gateway NLP Kubernetes
 JWT Monitoring Sharding Algorithm NLP I find that the harder I work, the more luck I seem to have. Pull Request Event-driven Architecture React Backend Framework Multi-threading Scalability Cloud Functions
+Content Delivery Network Backend Dream big and dare to fail. Success is not in what you have, but who you are. Big Data Microservices React Stay hungry, stay foolish. Message Queue Code Review
