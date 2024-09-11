@@ -4,3 +4,4 @@ CI/CD Success usually comes to those who are too busy to be looking for it. Agil
 DNS Routing Latency Optimization Event Sourcing Lambda Functions Cloud Microservices Success doesn’t just find you. You have to go out and get it.
 Database Kafka Multi-threading Data Pipeline Cloud Functions Pull Request Machine Learning
 API Gateway Work hard in silence, let your success be your noise. Parallel Processing Event Sourcing Optimization Message Queue Success doesn’t just find you. You have to go out and get it. Load Balancing Backend Kubernetes
+Zero Downtime Deployment Parallel Processing NLP Do what you love and the money will follow. Version Control Frontend
