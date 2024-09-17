@@ -10,3 +10,4 @@ Data Science Machine Learning Containerization Firewalls If you can dream it, yo
 Edge Computing Microservices IoT Containerization Act as if what you do makes a difference. It does. Firewalls Backend
 Code Review Blockchain A/B Testing Pull Request Optimization Kubernetes Event Sourcing
 Automation Logging Success doesn’t just find you. You have to go out and get it. Code Review Kubernetes Success usually comes to those who are too busy to be looking for it. CI/CD I find that the harder I work, the more luck I seem to have. Predictive Analytics Python Pull Request Data Pipeline Framework Artificial Intelligence
+Code Review To be the best, you must be able to handle the worst. Testing Container Orchestration Event-driven Architecture Kafka Quantum Computing Docker Difficult roads often lead to beautiful destinations. GraphQL
