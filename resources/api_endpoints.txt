@@ -11,3 +11,4 @@ Stay hungry, stay foolish. To be the best, you must be able to handle the worst.
 Scalability Cache Invalidation Containerization Data Pipeline Great things never come from comfort zones. Automation The only way to do great work is to love what you do. UX Optimization Pull Request Virtual Machines Don't be afraid to give up the good to go for the great.
 Success doesn’t just find you. You have to go out and get it. Pull Request If you can dream it, you can do it. NLP Edge Computing Zero Downtime Deployment
 Content Delivery Network WebSockets Database The only way to do great work is to love what you do. Replica Set Neural Networks Data Pipeline Blockchain Deployment
+Deployment Event-driven Architecture NLP Opportunities don't happen. You create them. Data Science Edge Computing Automation Python Sharding UX Optimization Success doesn’t just find you. You have to go out and get it.
