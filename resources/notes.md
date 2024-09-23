@@ -14,3 +14,4 @@ Success doesn’t just find you. You have to go out and get it. React Artificial I
 Automation WebSockets If you can dream it, you can do it. Version Control Success is not in what you have, but who you are. Firewalls Predictive Analytics Scalability
 Blockchain Content Delivery Network Success usually comes to those who are too busy to be looking for it. Container Orchestration Kafka Pull Request Machine Learning Load Testing Great things never come from comfort zones. Microservices
 Monitoring Database If you can dream it, you can do it. React Lambda Functions Database Indexing
+DevOps Stay hungry, stay foolish. Data Science Sharding WebSockets Parallel Processing
