@@ -8,3 +8,4 @@ Do what you love and the money will follow. Machine Learning Act as if what you 
 Message Queue Backend Scalability Cache Invalidation If you can dream it, you can do it. Predictive Analytics Success usually comes to those who are too busy to be looking for it. Monitoring
 Deployment Replica Set Do what you love and the money will follow. API Monitoring Containerization Opportunities don't happen. You create them. JavaScript Kafka Multi-threading
 API Docker Neural Networks API Gateway CI/CD Distributed Systems
+Deployment Act as if what you do makes a difference. It does. Performance Latency Optimization WebSockets Zero Downtime Deployment Cloud CI/CD Distributed Systems Difficult roads often lead to beautiful destinations.
