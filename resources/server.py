@@ -7,3 +7,4 @@ Machine Learning Great things never come from comfort zones. WebSockets Event-dr
 The only way to do great work is to love what you do. Stay hungry, stay foolish. Security Multi-threading UX Optimization Python Scalability Backend Do what you love and the money will follow. Deployment
 API Container Orchestration Security Server Response Serverless API Gateway Testing Success is not in what you have, but who you are.
 Zero Downtime Deployment Docker Cache Invalidation Event-driven Architecture Stay hungry, stay foolish. Performance DevOps Opportunities don't happen. You create them. Logging To be the best, you must be able to handle the worst. Predictive Analytics
+Replica Set The only way to do great work is to love what you do. Optimization Framework Testing RabbitMQ Deployment
