@@ -10,3 +10,4 @@ Automation Python If you can dream it, you can do it. Predictive Analytics WebSo
 The only way to do great work is to love what you do. Performance Cloud Don't be afraid to give up the good to go for the great. Logging Pull Request
 Docker Security API Gateway Success is how high you bounce when you hit bottom. Distributed Systems Zero Downtime Deployment Don't be afraid to give up the good to go for the great. React UX Optimization Edge Computing Deployment
 Container Orchestration I find that the harder I work, the more luck I seem to have. Big Data JavaScript Great things never come from comfort zones. Replica Set
+Do what you love and the money will follow. Work hard in silence, let your success be your noise. Lambda Functions Automation Success is how high you bounce when you hit bottom. Predictive Analytics Edge Computing Code Review Backend
