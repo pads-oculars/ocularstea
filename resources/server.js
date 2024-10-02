@@ -7,3 +7,4 @@ Backend Serverless Monitoring Virtual Machines Blockchain Act as if what you do 
 Logging Virtual Machines JWT Blockchain IoT Data Pipeline Happiness is not something ready made. It comes from your own actions. Success is how high you bounce when you hit bottom. Kubernetes Event-driven Architecture
 Pull Request Content Delivery Network OAuth Success is how high you bounce when you hit bottom. Data Pipeline
 Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it. If you can dream it, you can do it. Event Sourcing Distributed Systems DevOps Cloud JavaScript Data Pipeline Load Testing Success usually comes to those who are too busy to be looking for it. Firewalls
+Kafka Frontend Latency Optimization Data Science DNS Routing Cloud Content Delivery Network
