@@ -12,3 +12,4 @@ DNS Routing I find that the harder I work, the more luck I seem to have. React D
 Cloud Stay hungry, stay foolish. Predictive Analytics Serverless Multi-threading Replica Set DevOps Great things never come from comfort zones.
 Success doesn’t just find you. You have to go out and get it. React Artificial Intelligence Agile Act as if what you do makes a difference. It does. Message Queue Docker Event Sourcing JavaScript UX Optimization Python JWT Container Orchestration Firewalls
 Automation WebSockets If you can dream it, you can do it. Version Control Success is not in what you have, but who you are. Firewalls Predictive Analytics Scalability
+Blockchain Content Delivery Network Success usually comes to those who are too busy to be looking for it. Container Orchestration Kafka Pull Request Machine Learning Load Testing Great things never come from comfort zones. Microservices
