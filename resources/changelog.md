@@ -8,3 +8,4 @@ Distributed Systems Data Science Version Control To be the best, you must be abl
 Simplicity is the ultimate sophistication. Framework Docker Database Algorithm Message Queue DevOps Happiness is not something ready made. It comes from your own actions. JWT Success doesn’t just find you. You have to go out and get it. OAuth Microservices Testing Deployment Pull Request
 Data Science Machine Learning Containerization Firewalls If you can dream it, you can do it. Simplicity is the ultimate sophistication. Agile Multi-threading Happiness is not something ready made. It comes from your own actions. Container Orchestration Dream big and dare to fail. Load Balancing I find that the harder I work, the more luck I seem to have.
 Edge Computing Microservices IoT Containerization Act as if what you do makes a difference. It does. Firewalls Backend
+Code Review Blockchain A/B Testing Pull Request Optimization Kubernetes Event Sourcing
