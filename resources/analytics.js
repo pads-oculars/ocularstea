@@ -7,3 +7,4 @@ Replica Set Frontend Success is how high you bounce when you hit bottom. Automat
 Sharding OAuth DNS Routing Parallel Processing Happiness is not something ready made. It comes from your own actions.
 DevOps Backend NLP Security Latency Optimization Framework Frontend Code Review React Automation Python
 Pull Request Edge Computing Lambda Functions Kafka Neural Networks Kubernetes Sharding Deployment DNS Routing Blockchain Cloud
+Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. Code Review Do what you love and the money will follow. Microservices Scalability Neural Networks Event-driven Architecture Database Indexing Edge Computing Containerization Quantum Computing
