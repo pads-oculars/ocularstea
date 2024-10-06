@@ -9,3 +9,4 @@ Predictive Analytics JavaScript Stay hungry, stay foolish. Multi-threading Happi
 Automation Python If you can dream it, you can do it. Predictive Analytics WebSockets Container Orchestration Quantum Computing
 The only way to do great work is to love what you do. Performance Cloud Don't be afraid to give up the good to go for the great. Logging Pull Request
 Docker Security API Gateway Success is how high you bounce when you hit bottom. Distributed Systems Zero Downtime Deployment Don't be afraid to give up the good to go for the great. React UX Optimization Edge Computing Deployment
+Container Orchestration I find that the harder I work, the more luck I seem to have. Big Data JavaScript Great things never come from comfort zones. Replica Set
