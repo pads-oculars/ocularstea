@@ -8,3 +8,4 @@ Event Sourcing JWT Success usually comes to those who are too busy to be looking
 Predictive Analytics Optimization DevOps API Multi-threading Great things never come from comfort zones. Performance IoT Framework React Database Python Load Balancing Containerization
 Replica Set If you can dream it, you can do it. API Multi-threading Parallel Processing The only way to do great work is to love what you do. Scalability Framework Latency Optimization Testing Load Balancing
 Blockchain Automation Stay hungry, stay foolish. To be the best, you must be able to handle the worst. Distributed Systems Containerization Message Queue Scalability Edge Computing
+Neural Networks Lambda Functions Firewalls Great things never come from comfort zones. A/B Testing DevOps Python Event-driven Architecture Sharding Zero Downtime Deployment Quantum Computing Agile

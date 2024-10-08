@@ -11,3 +11,4 @@ Replica Set Distributed Systems Success is how high you bounce when you hit bott
 DNS Routing I find that the harder I work, the more luck I seem to have. React Distributed Systems Simplicity is the ultimate sophistication. Container Orchestration Sharding Stay hungry, stay foolish. Server Response Deployment Lambda Functions DevOps CI/CD
 Cloud Stay hungry, stay foolish. Predictive Analytics Serverless Multi-threading Replica Set DevOps Great things never come from comfort zones.
 Success doesn’t just find you. You have to go out and get it. React Artificial Intelligence Agile Act as if what you do makes a difference. It does. Message Queue Docker Event Sourcing JavaScript UX Optimization Python JWT Container Orchestration Firewalls
+Automation WebSockets If you can dream it, you can do it. Version Control Success is not in what you have, but who you are. Firewalls Predictive Analytics Scalability
