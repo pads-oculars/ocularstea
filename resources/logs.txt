@@ -7,3 +7,4 @@ Success is how high you bounce when you hit bottom. Data Pipeline API Load Balan
 Do what you love and the money will follow. Machine Learning Act as if what you do makes a difference. It does. Firewalls Testing I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do. Database Kafka Load Testing Success doesn’t just find you. You have to go out and get it.
 Message Queue Backend Scalability Cache Invalidation If you can dream it, you can do it. Predictive Analytics Success usually comes to those who are too busy to be looking for it. Monitoring
 Deployment Replica Set Do what you love and the money will follow. API Monitoring Containerization Opportunities don't happen. You create them. JavaScript Kafka Multi-threading
+API Docker Neural Networks API Gateway CI/CD Distributed Systems
