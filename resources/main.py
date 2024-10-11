@@ -8,3 +8,4 @@ Scalability Python Neural Networks Containerization Pull Request Automation Secu
 Predictive Analytics JavaScript Stay hungry, stay foolish. Multi-threading Happiness is not something ready made. It comes from your own actions. Sharding Virtual Machines Optimization Database Indexing Monitoring JWT Frontend Testing API
 Automation Python If you can dream it, you can do it. Predictive Analytics WebSockets Container Orchestration Quantum Computing
 The only way to do great work is to love what you do. Performance Cloud Don't be afraid to give up the good to go for the great. Logging Pull Request
+Docker Security API Gateway Success is how high you bounce when you hit bottom. Distributed Systems Zero Downtime Deployment Don't be afraid to give up the good to go for the great. React UX Optimization Edge Computing Deployment

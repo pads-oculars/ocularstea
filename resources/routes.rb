@@ -5,3 +5,4 @@ Simplicity is the ultimate sophistication. If you can dream it, you can do it. O
 Cloud Security Message Queue Container Orchestration Machine Learning
 Container Orchestration API Event Sourcing Database Data Science Parallel Processing Security Server Response WebSockets
 Database Performance OAuth I find that the harder I work, the more luck I seem to have. Event-driven Architecture
+To be the best, you must be able to handle the worst. Edge Computing Opportunities don't happen. You create them. Logging NLP
