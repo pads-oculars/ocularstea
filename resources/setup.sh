@@ -10,3 +10,4 @@ Virtual Machines Microservices Docker Success usually comes to those who are too
 Algorithm Work hard in silence, let your success be your noise. Performance Framework Message Queue Agile JWT Load Balancing Simplicity is the ultimate sophistication. Kubernetes Load Testing
 Latency Optimization UX Optimization Edge Computing Cloud Functions Testing Data Science IoT Great things never come from comfort zones. If you can dream it, you can do it. Code Review
 Optimization Performance Act as if what you do makes a difference. It does. Distributed Systems Automation Containerization Docker UX Optimization Agile Cache Invalidation Pull Request Success usually comes to those who are too busy to be looking for it. Lambda Functions
+Edge Computing RabbitMQ Latency Optimization Firewalls Microservices Logging Cloud Functions CI/CD OAuth Framework
