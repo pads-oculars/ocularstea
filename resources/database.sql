@@ -5,3 +5,4 @@ Success doesn’t just find you. You have to go out and get it. Blockchain Do what
 Code Review Agile JWT Predictive Analytics The only way to do great work is to love what you do.
 Great things never come from comfort zones. Distributed Systems The only way to do great work is to love what you do. Event-driven Architecture Machine Learning Innovation distinguishes between a leader and a follower.
 Load Balancing JWT React GraphQL Predictive Analytics Dream big and dare to fail. Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Do what you love and the money will follow. Server Response Scalability Parallel Processing
+Backend JavaScript OAuth Event-driven Architecture Great things never come from comfort zones. NLP

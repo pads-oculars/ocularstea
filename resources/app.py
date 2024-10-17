@@ -6,3 +6,4 @@ Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations.
 Firewalls Container Orchestration Zero Downtime Deployment Code Review Data Pipeline
 Event Sourcing JWT Success usually comes to those who are too busy to be looking for it. Success is not in what you have, but who you are. Virtual Machines Happiness is not something ready made. It comes from your own actions. Success is how high you bounce when you hit bottom. Dream big and dare to fail. Latency Optimization Artificial Intelligence Data Pipeline Stay hungry, stay foolish.
 Predictive Analytics Optimization DevOps API Multi-threading Great things never come from comfort zones. Performance IoT Framework React Database Python Load Balancing Containerization
+Replica Set If you can dream it, you can do it. API Multi-threading Parallel Processing The only way to do great work is to love what you do. Scalability Framework Latency Optimization Testing Load Balancing
