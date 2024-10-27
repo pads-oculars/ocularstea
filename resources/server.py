@@ -5,3 +5,4 @@ DNS Routing Blockchain Event Sourcing Machine Learning Cloud Functions IoT Zero 
 Cache Invalidation CI/CD Distributed Systems I find that the harder I work, the more luck I seem to have. Security Backend Parallel Processing Frontend UX Optimization Serverless
 Machine Learning Great things never come from comfort zones. WebSockets Event-driven Architecture Act as if what you do makes a difference. It does. Cloud Functions Simplicity is the ultimate sophistication. API Gateway Event Sourcing
 The only way to do great work is to love what you do. Stay hungry, stay foolish. Security Multi-threading UX Optimization Python Scalability Backend Do what you love and the money will follow. Deployment
+API Container Orchestration Security Server Response Serverless API Gateway Testing Success is not in what you have, but who you are.
