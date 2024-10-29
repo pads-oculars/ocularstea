@@ -6,3 +6,4 @@ Database Indexing Replica Set Cloud Virtual Machines Serverless Framework Perfor
 Security CI/CD Great things never come from comfort zones. Deployment Event Sourcing Backend JavaScript Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. Serverless
 Multi-threading Stay hungry, stay foolish. Optimization Scalability Frontend IoT Deployment Agile Success usually comes to those who are too busy to be looking for it. Code Review Cache Invalidation
 JWT Logging IoT Monitoring Firewalls Server Response Zero Downtime Deployment UX Optimization Database Success is how high you bounce when you hit bottom. Docker GraphQL A/B Testing Replica Set
+Docker UX Optimization Logging Load Testing Success usually comes to those who are too busy to be looking for it. Frontend JavaScript Work hard in silence, let your success be your noise. Serverless Blockchain Act as if what you do makes a difference. It does.
