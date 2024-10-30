@@ -8,3 +8,4 @@ Pull Request Machine Learning Database Indexing UX Optimization Code Review Drea
 Sharding Zero Downtime Deployment Quantum Computing Database Kafka A/B Testing JavaScript Cloud Code Review DNS Routing
 Framework Automation To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom. Algorithm Optimization Replica Set
 Stay hungry, stay foolish. To be the best, you must be able to handle the worst. Great things never come from comfort zones. Parallel Processing A/B Testing Do what you love and the money will follow. Performance
+Scalability Cache Invalidation Containerization Data Pipeline Great things never come from comfort zones. Automation The only way to do great work is to love what you do. UX Optimization Pull Request Virtual Machines Don't be afraid to give up the good to go for the great.
