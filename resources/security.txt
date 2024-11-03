@@ -3,3 +3,4 @@ Big Data Difficult roads often lead to beautiful destinations. Distributed Syste
 DNS Routing Data Pipeline Zero Downtime Deployment Act as if what you do makes a difference. It does. RabbitMQ Success is not in what you have, but who you are. UX Optimization Server Response Success is how high you bounce when you hit bottom. Virtual Machines Performance Database
 React Logging Automation Stay hungry, stay foolish. Cache Invalidation Firewalls GraphQL
 Predictive Analytics Blockchain Innovation distinguishes between a leader and a follower. RabbitMQ Testing Framework Automation The only way to do great work is to love what you do. NLP Python Cloud Functions
+Event-driven Architecture Innovation distinguishes between a leader and a follower. Containerization Algorithm Cache Invalidation React IoT Don't be afraid to give up the good to go for the great. Happiness is not something ready made. It comes from your own actions. Monitoring Artificial Intelligence Blockchain
