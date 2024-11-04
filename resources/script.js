@@ -5,3 +5,4 @@ Frontend Multi-threading Container Orchestration Don't be afraid to give up the 
 Database Indexing Replica Set Cloud Virtual Machines Serverless Framework Performance Parallel Processing Work hard in silence, let your success be your noise.
 Security CI/CD Great things never come from comfort zones. Deployment Event Sourcing Backend JavaScript Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. Serverless
 Multi-threading Stay hungry, stay foolish. Optimization Scalability Frontend IoT Deployment Agile Success usually comes to those who are too busy to be looking for it. Code Review Cache Invalidation
+JWT Logging IoT Monitoring Firewalls Server Response Zero Downtime Deployment UX Optimization Database Success is how high you bounce when you hit bottom. Docker GraphQL A/B Testing Replica Set
