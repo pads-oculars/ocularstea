@@ -8,3 +8,4 @@ CI/CD Neural Networks Framework Zero Downtime Deployment Serverless Code Review 
 Database Firewalls Load Testing Event-driven Architecture Version Control Opportunities don't happen. You create them. Zero Downtime Deployment NLP Event Sourcing UX Optimization
 Virtual Machines Microservices Docker Success usually comes to those who are too busy to be looking for it. Data Science Firewalls To be the best, you must be able to handle the worst. Parallel Processing Success is not in what you have, but who you are.
 Algorithm Work hard in silence, let your success be your noise. Performance Framework Message Queue Agile JWT Load Balancing Simplicity is the ultimate sophistication. Kubernetes Load Testing
+Latency Optimization UX Optimization Edge Computing Cloud Functions Testing Data Science IoT Great things never come from comfort zones. If you can dream it, you can do it. Code Review
