@@ -4,3 +4,4 @@ Event-driven Architecture Cloud Edge Computing Monitoring Dream big and dare to 
 Quantum Computing Stay hungry, stay foolish. Kubernetes Load Balancing Neural Networks Framework UX Optimization Do what you love and the money will follow.
 Deployment Difficult roads often lead to beautiful destinations. Testing Framework Distributed Systems Simplicity is the ultimate sophistication. Happiness is not something ready made. It comes from your own actions. JavaScript IoT JWT Data Science Data Pipeline
 Replica Set Frontend Success is how high you bounce when you hit bottom. Automation OAuth Artificial Intelligence Cloud I find that the harder I work, the more luck I seem to have. Success usually comes to those who are too busy to be looking for it. WebSockets Great things never come from comfort zones. Python GraphQL Code Review
+Sharding OAuth DNS Routing Parallel Processing Happiness is not something ready made. It comes from your own actions.
