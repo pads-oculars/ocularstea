@@ -3,3 +3,4 @@ Zero Downtime Deployment Event Sourcing Stay hungry, stay foolish. Container Orc
 Cloud Functions Security Do what you love and the money will follow. Scalability The only way to do great work is to love what you do. JWT Dream big and dare to fail. Distributed Systems NLP Opportunities don't happen. You create them. Message Queue
 Success doesn’t just find you. You have to go out and get it. Blockchain Do what you love and the money will follow. RabbitMQ I find that the harder I work, the more luck I seem to have. Version Control Opportunities don't happen. You create them. JWT
 Code Review Agile JWT Predictive Analytics The only way to do great work is to love what you do.
+Great things never come from comfort zones. Distributed Systems The only way to do great work is to love what you do. Event-driven Architecture Machine Learning Innovation distinguishes between a leader and a follower.
