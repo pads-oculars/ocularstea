@@ -6,3 +6,4 @@ WebSockets Don't be afraid to give up the good to go for the great. To be the be
 Algorithm Framework Cache Invalidation Monitoring Event-driven Architecture Microservices Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. Predictive Analytics OAuth
 Scalability Python Neural Networks Containerization Pull Request Automation Security Happiness is not something ready made. It comes from your own actions. Kubernetes
 Predictive Analytics JavaScript Stay hungry, stay foolish. Multi-threading Happiness is not something ready made. It comes from your own actions. Sharding Virtual Machines Optimization Database Indexing Monitoring JWT Frontend Testing API
+Automation Python If you can dream it, you can do it. Predictive Analytics WebSockets Container Orchestration Quantum Computing
