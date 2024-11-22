@@ -6,3 +6,4 @@ Containerization Virtual Machines Container Orchestration WebSockets Cloud DNS R
 NLP RabbitMQ Parallel Processing Cloud Load Balancing Message Queue Data Science Microservices I find that the harder I work, the more luck I seem to have. Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Docker Firewalls Distributed Systems
 Data Science Serverless API Container Orchestration GraphQL Kubernetes
 Event-driven Architecture Happiness is not something ready made. It comes from your own actions. Kafka Big Data Algorithm Database Monitoring
+Automation Database Indexing Docker Opportunities don't happen. You create them. Neural Networks Work hard in silence, let your success be your noise. Framework Blockchain Container Orchestration Firewalls
