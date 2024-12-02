@@ -4,3 +4,4 @@ Containerization Kafka If you can dream it, you can do it. Predictive Analytics 
 Multi-threading API Monitoring Simplicity is the ultimate sophistication. OAuth Scalability JWT Distributed Systems Testing Database Indexing Great things never come from comfort zones. Event Sourcing
 Scalability Backend To be the best, you must be able to handle the worst. Multi-threading NLP Parallel Processing Container Orchestration RabbitMQ The only way to do great work is to love what you do. OAuth Cloud Functions Blockchain Data Pipeline Kubernetes Automation
 Backend Serverless Monitoring Virtual Machines Blockchain Act as if what you do makes a difference. It does. Parallel Processing CI/CD
+Logging Virtual Machines JWT Blockchain IoT Data Pipeline Happiness is not something ready made. It comes from your own actions. Success is how high you bounce when you hit bottom. Kubernetes Event-driven Architecture
