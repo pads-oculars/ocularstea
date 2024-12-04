@@ -5,3 +5,4 @@ A/B Testing Neural Networks Pull Request Event-driven Architecture Frontend Cont
 Success is not in what you have, but who you are. Sharding Serverless WebSockets Don't be afraid to give up the good to go for the great. NLP Stay hungry, stay foolish. UX Optimization Data Pipeline Database RabbitMQ Algorithm Frontend
 Database Dream big and dare to fail. WebSockets Microservices NLP
 Distributed Systems Data Science Version Control To be the best, you must be able to handle the worst. WebSockets Kubernetes RabbitMQ Frontend Framework Stay hungry, stay foolish. Parallel Processing Deployment Database Python Quantum Computing
+Simplicity is the ultimate sophistication. Framework Docker Database Algorithm Message Queue DevOps Happiness is not something ready made. It comes from your own actions. JWT Success doesn’t just find you. You have to go out and get it. OAuth Microservices Testing Deployment Pull Request
