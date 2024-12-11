@@ -4,3 +4,4 @@ Microservices DNS Routing Don't be afraid to give up the good to go for the grea
 Machine Learning Pull Request Opportunities don't happen. You create them. Automation Act as if what you do makes a difference. It does. Data Science Edge Computing Work hard in silence, let your success be your noise. Event Sourcing
 Machine Learning Scalability Parallel Processing Cache Invalidation DNS Routing JavaScript API React
 Don't be afraid to give up the good to go for the great. Success is how high you bounce when you hit bottom. Lambda Functions Load Testing Edge Computing API Parallel Processing Version Control
+CI/CD Neural Networks Framework Zero Downtime Deployment Serverless Code Review Deployment Database Blockchain The only way to do great work is to love what you do. NLP Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it.
