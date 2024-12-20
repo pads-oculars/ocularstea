@@ -2,3 +2,4 @@ Algorithm Work hard in silence, let your success be your noise. I find that the 
 Big Data Difficult roads often lead to beautiful destinations. Distributed Systems Data Pipeline Artificial Intelligence UX Optimization Success is not in what you have, but who you are. Cache Invalidation Event Sourcing Docker WebSockets A/B Testing Kubernetes
 DNS Routing Data Pipeline Zero Downtime Deployment Act as if what you do makes a difference. It does. RabbitMQ Success is not in what you have, but who you are. UX Optimization Server Response Success is how high you bounce when you hit bottom. Virtual Machines Performance Database
 React Logging Automation Stay hungry, stay foolish. Cache Invalidation Firewalls GraphQL
+Predictive Analytics Blockchain Innovation distinguishes between a leader and a follower. RabbitMQ Testing Framework Automation The only way to do great work is to love what you do. NLP Python Cloud Functions
