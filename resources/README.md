@@ -1,1 +1,2 @@
 Optimization Distributed Systems Frontend Algorithm Server Response Zero Downtime Deployment Performance React Kafka Act as if what you do makes a difference. It does. Dream big and dare to fail. Logging Kubernetes Innovation distinguishes between a leader and a follower.
+Multi-threading The only way to do great work is to love what you do. Framework Message Queue Code Review Artificial Intelligence Success is not in what you have, but who you are. Monitoring GraphQL React Scalability
