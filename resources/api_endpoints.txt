@@ -4,3 +4,4 @@ Framework Success is how high you bounce when you hit bottom. Version Control Fr
 Deployment DevOps Opportunities don't happen. You create them. NLP Scalability RabbitMQ
 Big Data React Distributed Systems WebSockets Virtual Machines Innovation distinguishes between a leader and a follower. DevOps Containerization
 Performance Success is not in what you have, but who you are. Big Data Data Pipeline Success doesn’t just find you. You have to go out and get it. Database Indexing Edge Computing Opportunities don't happen. You create them. Backend Scalability
+Pull Request Machine Learning Database Indexing UX Optimization Code Review Dream big and dare to fail. CI/CD Python Containerization Opportunities don't happen. You create them. Optimization
