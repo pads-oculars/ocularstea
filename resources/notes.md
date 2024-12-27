@@ -4,3 +4,4 @@ Virtual Machines I find that the harder I work, the more luck I seem to have. Pe
 Cache Invalidation Kubernetes API Gateway Frontend Scalability Testing NLP
 Containerization Virtual Machines Container Orchestration WebSockets Cloud DNS Routing Frontend If you can dream it, you can do it. Lambda Functions
 NLP RabbitMQ Parallel Processing Cloud Load Balancing Message Queue Data Science Microservices I find that the harder I work, the more luck I seem to have. Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Docker Firewalls Distributed Systems
+Data Science Serverless API Container Orchestration GraphQL Kubernetes
