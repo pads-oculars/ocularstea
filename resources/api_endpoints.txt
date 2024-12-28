@@ -3,3 +3,4 @@ Data Pipeline Load Balancing Pull Request Cache Invalidation Zero Downtime Deplo
 Framework Success is how high you bounce when you hit bottom. Version Control Frontend Backend JavaScript Algorithm Cache Invalidation Distributed Systems
 Deployment DevOps Opportunities don't happen. You create them. NLP Scalability RabbitMQ
 Big Data React Distributed Systems WebSockets Virtual Machines Innovation distinguishes between a leader and a follower. DevOps Containerization
+Performance Success is not in what you have, but who you are. Big Data Data Pipeline Success doesn’t just find you. You have to go out and get it. Database Indexing Edge Computing Opportunities don't happen. You create them. Backend Scalability
