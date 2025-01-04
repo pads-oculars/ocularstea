@@ -2,3 +2,4 @@ API Event Sourcing Virtual Machines Happiness is not something ready made. It co
 Data Pipeline Load Balancing Pull Request Cache Invalidation Zero Downtime Deployment
 Framework Success is how high you bounce when you hit bottom. Version Control Frontend Backend JavaScript Algorithm Cache Invalidation Distributed Systems
 Deployment DevOps Opportunities don't happen. You create them. NLP Scalability RabbitMQ
+Big Data React Distributed Systems WebSockets Virtual Machines Innovation distinguishes between a leader and a follower. DevOps Containerization
