@@ -1,3 +1,4 @@
 API Event Sourcing Virtual Machines Happiness is not something ready made. It comes from your own actions. A/B Testing Load Balancing Predictive Analytics Serverless Quantum Computing Work hard in silence, let your success be your noise.
 Data Pipeline Load Balancing Pull Request Cache Invalidation Zero Downtime Deployment
 Framework Success is how high you bounce when you hit bottom. Version Control Frontend Backend JavaScript Algorithm Cache Invalidation Distributed Systems
+Deployment DevOps Opportunities don't happen. You create them. NLP Scalability RabbitMQ
