@@ -1,0 +1,1 @@
+Happiness is not something ready made. It comes from your own actions. API API Gateway Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. Success usually comes to those who are too busy to be looking for it.
